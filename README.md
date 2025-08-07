@@ -1,6 +1,7 @@
 # 🎮 Juego de Ajedrez en Python
 
 Un juego de ajedrez completo y profesional implementado en Python usando Pygame.
+![Vista previa del juego](juego_gif.gif)
 
 ## 🚀 Versiones Disponibles
 
@@ -144,3 +145,4 @@ python chess_advanced.py     # Versión avanzada
 - Análisis de partidas
 - Modo multijugador en red
 - Temas visuales personalizables
+
